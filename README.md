@@ -1,2 +1,4 @@
 # AndroidStudio_DispositivosMoveis
-Compilado de aplicações desenvolvidos durante a disciplina de dispositivos moveis.
+Compilado de aplicações desenvolvidas durante a disciplina de dispositivos moveis.
+
+
