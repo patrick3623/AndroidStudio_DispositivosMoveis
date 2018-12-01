@@ -1,0 +1,7 @@
+#Thu May 11 21:39:10 BRT 2017
+base.0=/Users/andresporfirio/Documents/UTFPR/PDM/Projetos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_582bec8538d099ab2d4ce4c4cd60c83440f8a7c9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/andresporfirio/Documents/UTFPR/PDM/Projetos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa1176e7f40343a333004620aeb437e017357ae3/classes.dex
+base.1=/Users/andresporfirio/Documents/UTFPR/PDM/Projetos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa1176e7f40343a333004620aeb437e017357ae3
+file.0=/Users/andresporfirio/Documents/UTFPR/PDM/Projetos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_582bec8538d099ab2d4ce4c4cd60c83440f8a7c9/classes.dex

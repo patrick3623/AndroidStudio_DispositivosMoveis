@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/andresporfirio/Documents/UTFPR/PDM/Projetos/MyApplication/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/andresporfirio/.android/build-cache/f3f889e33e67ac30faee407bee0c5434fc56ba68/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/andresporfirio/Documents/UTFPR/PDM/Projetos/MyApplication/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/andresporfirio/.android/build-cache/f3f889e33e67ac30faee407bee0c5434fc56ba68/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

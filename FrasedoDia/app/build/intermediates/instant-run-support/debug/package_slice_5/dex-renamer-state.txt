@@ -1,0 +1,4 @@
+#Mon Mar 19 22:21:10 BRT 2018
+base.0=C\:\\Users\\Patrick\\AndroidStudioProjects\\FrasedoDia\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
